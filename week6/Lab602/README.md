@@ -7,4 +7,4 @@ from the provided C# program.
 
 1. A class diagram of the original source code
 2. Detail explaination about the identified pattern and all the parcipants
-- ![570610576](http://www.temppic.com/img.php?17-10-2015:1445094248_0.42764800.jpg)
+- ![570610576](http://uppic.thaibuzz.com/il/lab602.jpg)
